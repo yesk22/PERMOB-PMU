@@ -1,0 +1,28 @@
+name: User story
+description: História orientada a KPI
+title: "[story]: "
+labels: ["type:story"]
+body:
+  - type: textarea
+    id: user-story
+    attributes:
+      label: User Story
+      description: Como <perfil>, quero <algo> para <valor>.
+      placeholder: Como um planejador urbano, quero ...
+    validations:
+      required: true
+  - type: input
+    id: kpi
+    attributes:
+      label: KPI/Resultado
+      placeholder: Nome do KPI e fórmula/fonte
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Critérios de aceite
+      placeholder: Itens mensuráveis de conclusão (ex.: 95% linhas válidas)
+  - type: input
+    id: owner
+    attributes:
+      label: Owner
+      placeholder: @usuario

@@ -1,0 +1,5 @@
+# Defina donos por pasta/área
+# Exemplo:
+# /src/etl/   @dados-owner
+# /src/dashboard/ @frontend-owner
+# /docs/      @pm-owner

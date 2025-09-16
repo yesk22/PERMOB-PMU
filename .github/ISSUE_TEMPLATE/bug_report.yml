@@ -1,0 +1,31 @@
+name: Bug report
+description: Reporte um problema encontrado
+title: "[bug]: "
+labels: ["type:bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: O que aconteceu?
+      description: Descreva o bug e o comportamento esperado
+      placeholder: Descrição clara e passos para reproduzir
+    validations:
+      required: true
+  - type: input
+    id: files
+    attributes:
+      label: Arquivos/abas envolvidos
+      placeholder: Ex.: PERMOB.xlsx > Aba Velocidade
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passos para reproduzir
+      placeholder: 1. ... 2. ... 3. ...
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severidade
+      options:
+        - baixa
+        - média
+        - alta
