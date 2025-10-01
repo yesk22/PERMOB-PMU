@@ -22,10 +22,13 @@ Projeto baseado na metodologia ágil Scrum e tem como propósito transformar a p
 | Product Owner   |    Márcia Soares   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rcia-soares-de-almeida-22814814a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)      |
 | Scrum Master    |  Rafael Ramirez      |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ramirez-286553291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   |
 | Team Member     | Amanda Lessa       | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amandasantoslessa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)    |
-| Team Member     |        |     |
-| Team Member     |        |     |
-| Team Member     |          |   |
-| Team Member     |   Joyce Sena    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-sena-49918b278)/ |
+| Team Member     |    Ana Julia    |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j%C3%BAlia-gregate-a1399a22a/)     |
+| Team Member     |      Diego Siqueira  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-siqueira-56680926b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)    |
+| Team Member     |    Douglas Nogueira      |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-nogueira-85b23128a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   |
+| Team Member     |      Emily Job    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emily-job-316851292)  |
+| Team Member     |   Jose Ezenildo       |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.google.com/url?sa=t&source=web&cd=&ved=2ahUKEwiWxLT2i_-PAxUOlJUCHV-uFcoQFnoECBwQAQ&url=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fezenildo-campos-81043b266&usg=AOvVaw2gVwmg4ev49shebKBmxjAN&opi=89978449)   |
+| Team Member     |   Jonathan Martins    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-martins-0b60161bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
+| Team Member     |   Joyce Sena    |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-sena-49918b278) |
 | Team Member     |    Yesenia Ruiz   |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kassandra-ruiz-100591204/) 
 
 ##
