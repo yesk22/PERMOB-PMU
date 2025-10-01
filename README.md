@@ -1,43 +1,94 @@
-# PERMOB → PMU — Estratégia Digital (Starter)
+# Estratégia digital para analisar os dados da pesquisa PEMOB-2024 para apoio à elaboração de Planos de Mobilidade Urbana
+ <div>
+<img align="center" alt="aerolog" height="139" width="700" src="https://files.passeidireto.com/322070fa-3084-4183-b8d2-43625251dbc9/bg1.png">
 
-Projeto para transformar a planilha **PERMOB 2024** em **KPIs e diagnósticos** nas dimensões **infraestrutura, qualidade, custos e planejamento**, com entregas organizadas em 3 sprints e apresentação final na **Feira de Soluções (04/12/2025)**.
 
-## Sprints e marcos
-- **Sprint 1** — Review & Demo: **02/10/2025**
-- **Sprint 2** — Review & Demo: **25/10/2025**
-- **Sprint 3** — Review & Demo: **20/11/2025**
-- **Hardening/Go‑Live**: 21/11 → 03/12/2025
-- **Feira de Soluções**: **04/12/2025**
+Projeto baseado na metodologia ágil Scrum e tem como propósito transformar a planilha **PERMOB 2024** em **KPIs e diagnósticos** nas dimensões **infraestrutura, qualidade, custos e planejamento**. O resultado esperado é apoiar a construção ou atualização de Planos de Mobilidade Urbana (PMU), promovendo uma tomada de decisão mais fundamentada e eficiente.
 
-## Como rodar (ETL mínimo)
-```bash
-# Requisitos: Python 3.10+
-python -m venv .venv
-# Windows
-.venv\Scripts\activate
-# Linux/macOS
-# source .venv/bin/activate
+# Índice
+* [Autores](#autores)
+* [Objetivos específicos do projeto](#objetivo-específicos-do-projeto)
+* [Objetivo do projeto](#objetivos-do-projeto)
+* [Datas](#datas)
+* [Backlog do produto](#backlog-do-produto)
+* [MVP 1°Sprint (Minimum Viable Product)](#mvp-1sprint-minimum-viable-product)
+* [MVP 2°Sprint (Minimum Viable Product)](#mvp-2sprint-minimum-viable-product)
+* [MVP 3°Sprint (Minimum Viable Product)](#mvp-3sprint-minimum-viable-product)
 
-pip install -r requirements.txt
-python src/etl/load_permob.py --input data/raw/pemob_municipal_2024.xlsx --summary reports/permob_resumo.md
-```
+ # Autores
 
-## Estrutura
-```
-.
-├─ src/
-│  ├─ etl/                 # scripts de ingestão/limpeza
-│  └─ dashboard/           # código do dashboard/app (futuro)
-├─ data/
-│  ├─ raw/                 # planilhas originais (não versionar dados sensíveis)
-│  └─ processed/           # dados tratados/derivados
-├─ notebooks/              # análises exploratórias
-├─ reports/                # relatórios exportados (PDF/MD)
-├─ docs/                   # documentação
-├─ configs/                # YAML/JSON de parâmetros e mapeamentos
-├─ tests/                  # testes automatizados
-└─ .github/                # templates, CI, etc.
-```
+|    Função       |       Nome           |                                                                                                                                                          Contato                                                                                                                                                          |
+|:---------------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Product Owner   |       |       |
+| Scrum Master    |        |     |
+| Team Member     |        |     |
+| Team Member     |          |   |
+| Team Member     |       |   |
+| Team Member     |    Yesenia Ruiz   |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kassandra-ruiz-100591204/) 
+
+##
+
+# Objetivo específicos do projeto
+
+Este projeto visa transformar os dados da pesquisa PERMOB 2024 em insights valiosos para o planejamento e a melhoria da mobilidade urbana. As ações específicas para atingir esses objetivos incluem:
+
+- Estruturação e organização dos dados da pesquisa PERMOB.
+- Análise e transformação dos dados.
+- Desenvolvimento de um dashboard interativo para visualização de KPIs e tendências.
+- Análise de dados focada nas quatro dimensões principais.
+- Geração de diagnósticos e relatórios
+
+# Objetivos do projeto
+
+Este projeto tem como objetivo proporcionar um ambiente colaborativo, organizado e tecnicamente robusto, utilizando as melhores práticas de desenvolvimento de software e análise de dados. A estrutura de pastas e ferramentas visa facilitar o trabalho em equipe, a documentação e o controle de versões:
+
+- Centralizar as análises e artefatos do projeto.
+- Organizar e documentar os dados e processos de análise.
+- Versionar os códigos e garantir controle de mudanças.
+- Facilitar o compartilhamento e a contribuição entre os membros.
+- Desenvolver competências em análise de dados, BI e mobilidade urbana.
+
+# Datas
+
+Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com foco no desenvolvimento de competências e baseado nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Utilizamos estratégias para compreender o problema, conceber uma solução viável durante o desenvolvimento e implementar o MVP, seguido pela sua operação (CDIO).
+
+| Sprint             |    Data      |   Status      | Relatório                                                                                                 | Python                                                                                                       | Power BI                                                                                                     |
+|:------------------:|:------------:|:-------------:|:---------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
+|  1          | 02/10/2025   | Por fazer     |                                                                                                           |                                               |                                                                                                              |
+| 2                  | 25/10/2025   | Por fazer     |                 |                                               |                                                                                                              |
+| 3                  | 20/11/2025   | Por fazer    |                |                                         |         |
+| Hardening/Go‑Live       | 21/11 → 03/12/2025  |  Por fazer  |  |   |  |
+| Feira de Soluções  | 04/12/2024   | Por fazer      | 
+
+# Backlog do produto
+
+## Sprint 1.
+- [x] Estruturação do github 
+- [ ] Ingestão e Normalização de Dados (ETL)  
+- [ ] Ingestão do arquivo PERMOB 2024 
+- [ ] Limpeza e normalização  
+- [ ] Cálculo de KPIs (MVP) 
+- [ ] Infraestrutura: Idade média da frota, km/corredores, km/cicloviário.
+- [ ] Qualidade: Velocidade média, % de viagens não concluídas.
+- [ ] Custos: Indicadores de diversificação tarifária.
+- [ ] Planejamento: Marcadores de governança.
+- [ ] Protótipo de Dashboard
+- [ ] Criar protótipo com tela-resumo e 4 abas "placeholder
+- [ ] Documentação e README
+- [ ] Atualizar README e criar manual de operações
+- [ ] Revisões de Sprint
+- [ ] Definir DoR antes do início.
+- [ ] Aplicar DoD na revisão final
+
+
+
+## Sprint 2.
+- [x] Atualização do Github
+- [x] 
+
+## Sprint 3.
+- [x] Atualização do Github
+
 
 ## Convenções
 - **Branching**: `main` protegido; feature branches em `feat/<slug>`, `fix/<slug>`, `data/<slug>`.
