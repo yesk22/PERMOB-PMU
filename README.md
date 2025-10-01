@@ -19,11 +19,11 @@ Projeto baseado na metodologia ágil Scrum e tem como propósito transformar a p
 
 |    Função       |       Nome           |                                                                                                                                                          Contato                                                                                                                                                          |
 |:---------------:|:-------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Product Owner   |    Márcia Soares   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)] https://www.linkedin.com/in/m%C3%A1rcia-soares-de-almeida-22814814a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app      |
-| Scrum Master    |  Rafael Ramirez      |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)] https://www.linkedin.com/in/rafael-ramirez-286553291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app   |
+| Product Owner   |    Márcia Soares   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)] (https://www.linkedin.com/in/m%C3%A1rcia-soares-de-almeida-22814814a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)      |
+| Scrum Master    |  Rafael Ramirez      |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)] (https://www.linkedin.com/in/rafael-ramirez-286553291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   |
 | Team Member     |        |     |
 | Team Member     |          |   |
-| Team Member     |   Joyce Sena    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)] https://www.linkedin.com/in/joyce-sena-49918b278/ |
+| Team Member     |   Joyce Sena    | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)] (https://www.linkedin.com/in/joyce-sena-49918b278)/ |
 | Team Member     |    Yesenia Ruiz   |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kassandra-ruiz-100591204/) 
 
 ##
