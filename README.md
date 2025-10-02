@@ -72,7 +72,7 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 - [ ] Ingestão e Normalização de Dados (ETL)  
 - [ ] Ingestão do arquivo PERMOB 2024 
 - [ ] Limpeza e normalização  
-- [ ] Cálculo de KPIs (MVP) 
+- [ ] Divisão de KPIs (MVP) 
 - [ ] Infraestrutura: Idade média da frota, km/corredores, km/cicloviário.
 - [ ] Qualidade: Velocidade média, % de viagens não concluídas.
 - [ ] Custos: Indicadores de diversificação tarifária.
@@ -82,14 +82,15 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 - [ ] Documentação e README
 - [ ] Atualizar README e criar manual de operações
 - [ ] Revisões de Sprint
-- [ ] Definir DoR antes do início.
-- [ ] Aplicar DoD na revisão final
+
 
 
 
 ## Sprint 2.
 - [x] Atualização do Github
-- [x] 
+- [ ] [ ] Definir DoR antes do início.
+- [ ] Aplicar DoD na revisão final
+- [ ] [ ] Cálculo de KPIs (MVP)  
 
 ## Sprint 3.
 - [x] Atualização do Github
@@ -97,7 +98,6 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 
 ## Convenções
 - **Branching**: `main` protegido; feature branches em `feat/<slug>`, `fix/<slug>`, `data/<slug>`.
-- **Commits** (sugestão): `type(scope): mensagem` — ex.: `feat(qualidade): calcular velocidade média`.
 - **Tags**: `v0.1` (S1), `v0.2` (S2), `v1.0` (S3), `v1.1` (Feira).
 - **KPIs**: manter o **dicionário** em `docs/kpis.md` e referenciar fonte/colunas da PERMOB 2024.
 
