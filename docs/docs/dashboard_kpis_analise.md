@@ -1,4 +1,4 @@
-# 📊 Explicação do Script `dashboard_kpis_analise.py`
+# Explicação do Script `dashboard_kpis_analise.py`
 
 Este documento descreve o funcionamento completo do script responsável por gerar o **Dashboard Interativo de KPIs de Custos e Eficiência Operacional**, desenvolvido com **Dash + Plotly + Python**.
 
@@ -12,7 +12,7 @@ O dashboard permite analisar:
 
 ---
 
-## 🧩 1. Importação das bibliotecas principais
+## 1. Importação das bibliotecas principais
 
 O script utiliza:
 
@@ -30,7 +30,7 @@ import plotly.graph_objects as go
 
 ---
 
-## 📂 2. Leitura e normalização dos dados
+## 2. Leitura e normalização dos dados
 
 O arquivo base utilizado é:
 
@@ -49,7 +49,7 @@ Todas as colunas são padronizadas para evitar erros de leitura ou inconsistênc
 
 ---
 
-## 🏷️ 3. Colunas principais e KPIs utilizados
+## 3. Colunas principais e KPIs utilizados
 
 ```python
 col_municipio = "municipio"
@@ -78,7 +78,7 @@ kpis_base = [
 
 ---
 
-## 📏 4. Cálculo da Completude dos KPIs
+## 4. Cálculo da Completude dos KPIs
 
 Para cada linha é calculado quantos KPIs estão ausentes:
 
@@ -91,7 +91,7 @@ Esse indicador é utilizado no **Mapa de Completude** (heatmap).
 
 ---
 
-## 🎯 5. Função do Radar Comparativo
+## 5. Função do Radar Comparativo
 
 A função `gerar_radar_modal()` cria o radar que compara:
 
@@ -113,7 +113,7 @@ interpretacion.append("🟢 Boa diversificação de receitas.")
 
 ---
 
-## 🎨 6. Classificação e cores para o Treemap
+## 6. Classificação e cores para o Treemap
 
 Cores usadas no dashboard:
 
@@ -134,7 +134,7 @@ else: "Alta"
 
 ---
 
-## 🧱 7. Estrutura da Interface (Layout)
+## 7. Estrutura da Interface (Layout)
 
 O layout é composto por:
 
@@ -160,7 +160,7 @@ app.layout = html.Div([
 
 ---
 
-## 🔄 8. Callback Principal do Dashboard
+## 8. Callback Principal do Dashboard
 
 O callback atualiza **todos os gráficos e textos** com base nos filtros selecionados:
 
@@ -207,7 +207,7 @@ Inclui:
 
 ---
 
-## 🧮 9. Fórmula da Eficiência
+## 9. Fórmula da Eficiência
 
 Exibida no dashboard:
 
@@ -228,7 +228,7 @@ Notas incluídas:
 
 ---
 
-## ▶️ 10. Execução do Dashboard
+## 10. Execução do Dashboard
 
 ```python
 if __name__ == "__main__":
@@ -243,7 +243,7 @@ http://127.0.0.1:8050/
 
 ---
 
-## 🧪 11. Funcionalidades Principais
+## 11. Funcionalidades Principais
 
 ### ✔ Comparação entre modal e município
 
