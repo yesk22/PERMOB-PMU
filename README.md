@@ -69,28 +69,25 @@ Projeto pedagógico fundamentado na Metodologia API para ensino-aprendizado, com
 
 ## Sprint 1.
 - [x] Estruturação do github 
-- [ ] Ingestão e Normalização de Dados (ETL)  
-- [ ] Ingestão do arquivo PERMOB 2024 
-- [ ] Limpeza e normalização  
-- [ ] Divisão de KPIs (MVP) 
-- [ ] Infraestrutura: Idade média da frota, km/corredores, km/cicloviário.
-- [ ] Qualidade: Velocidade média, % de viagens não concluídas.
-- [ ] Custos: Indicadores de diversificação tarifária.
-- [ ] Planejamento: Marcadores de governança.
-- [ ] Protótipo de Dashboard
-- [ ] Criar protótipo com tela-resumo e 4 abas "placeholder
-- [ ] Documentação e README
-- [ ] Atualizar README e criar manual de operações
-- [ ] Revisões de Sprint
-
-
-
+- [x] Ingestão e Normalização de Dados (ETL)  
+- [x] Ingestão do arquivo PERMOB 2024 
+- [x] Limpeza e normalização  
+- [x] Divisão de KPIs (MVP) 
+- [x] Infraestrutura: Idade média da frota, km/corredores, km/cicloviário.
+- [x] Qualidade: Velocidade média, % de viagens não concluídas.
+- [x] Custos: Indicadores de diversificação tarifária.
+- [x] Planejamento: Marcadores de governança.
+- [x] Protótipo de Dashboard
+- [x] Criar protótipo com tela-resumo e 4 abas "placeholder
+- [x] Documentação e README
+- [x] Atualizar README e criar manual de operações
+- [x] Revisões de Sprint
 
 ## Sprint 2.
 - [x] Atualização do Github
-- [ ] [ ] Definir DoR antes do início.
-- [ ] Aplicar DoD na revisão final
-- [ ] [ ] Cálculo de KPIs (MVP)  
+- [x] Definir DoR antes do início.
+- [x] Aplicar DoD na revisão final
+- [x] Cálculo de KPIs (MVP)  
 
 ## Sprint 3.
 - [x] Atualização do Github
